@@ -1,0 +1,35 @@
+/* .aws-btn {
+    --slider-height-percentage: 34%;
+    --slider-transition-duration: 487ms;
+    --organic-arrow-thickness: 4px;
+    --organic-arrow-border-radius: 0px;
+    --organic-arrow-height: 28px;
+    --organic-arrow-color: #33c9bf;
+    --control-button-width: 10%;
+    --control-button-height: 25%;
+    --control-button-background: transparent;
+    --control-bullet-color: #33c9bf;
+    --control-bullet-active-color: #33c9bf;
+    --loader-bar-color: #33c9bf;
+    --loader-bar-height: 6px;
+    } */
+
+
+    .awssld {
+        --organic-arrow-thickness: 4px;
+        --organic-arrow-height: 25px;
+        --slider-height-percentage: 25%;
+        --loader-bar-color: #33c9bf;
+        --loader-bar-height: 6px;
+        --control-button-width: 10%;
+        --control-button-height: 10%;
+        --control-button-opacity: 0.5;
+        --control-button-hover-opacity: 0.75;
+        --control-button-background: transparent;
+        --transition-bezier: cubic-bezier(0.5, 0.075, 0.25, 0.95);
+        --slider-transition-duration: 575ms;
+        --organic-arrow-color: #33c9bf;
+        --organic-arrow-border-radius: 0;
+        --control-bullet-color: #33c9bf;
+        --control-bullet-active-color: #33c9bf;
+        --content-background-color: #19aea4; }
